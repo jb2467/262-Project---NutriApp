@@ -1,0 +1,20 @@
+{
+    "day1": [
+        {
+          "user": "user1",
+          "intensity": "medium",
+          "date": "12/4/2023",
+          "minutes": 10.0,
+          "meal": "meal1"
+        },
+        {
+          "user": "user2",
+          "intensity": "low",
+          "date": "12/5/2023",
+          "minutes": 20.0,
+          "meal": "meal1"
+        }
+      ]
+}
+
+        

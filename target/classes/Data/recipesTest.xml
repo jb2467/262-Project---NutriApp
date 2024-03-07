@@ -1,0 +1,10 @@
+<recipes>
+ <recipe>
+   <name>recipe1</name>
+   <ingredient1>Chicken</ingredient1>
+   <ingredient1Amount>1</ingredient1Amount>
+   <ingredient2>Butter</ingredient2>
+   <ingredient2Amount>5</ingredient2Amount>
+   <instructions>Cook up!!!</instructions>
+ </recipe>
+</recipes>

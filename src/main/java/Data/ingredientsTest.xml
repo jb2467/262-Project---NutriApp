@@ -1,0 +1,29 @@
+<ingredients>
+ <ingredient>
+   <name>Pasta</name>
+   <calories>100.0</calories>
+   <fat>5.0</fat>
+   <protein>10.0</protein>
+   <fiber>2.0</fiber>
+   <carbs>15.0</carbs>
+   <AmountInStock>1</AmountInStock>
+ </ingredient>
+ <ingredient>
+   <name>Butter</name>
+   <calories>150.0</calories>
+   <fat>8.0</fat>
+   <protein>12.0</protein>
+   <fiber>3.0</fiber>
+   <carbs>20.0</carbs>
+   <AmountInStock>2</AmountInStock>
+ </ingredient>
+ <ingredient>
+   <name>Chicken</name>
+   <calories>120.0</calories>
+   <fat>6.0</fat>
+   <protein>8.0</protein>
+   <fiber>1.5</fiber>
+   <carbs>18.0</carbs>
+   <AmountInStock>3</AmountInStock>
+ </ingredient>
+</ingredients>

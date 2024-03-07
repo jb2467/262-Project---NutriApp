@@ -1,0 +1,12 @@
+{
+    "recipe": [
+      {
+        "name": "recipe1",
+        "ingredient1": "Chicken",
+        "ingredient1Amount": 1,
+        "ingredient2" : "Butter",
+        "ingredient2Amount": 5,
+        "instructions": "Cook up!!!"
+      }
+    ]
+  }

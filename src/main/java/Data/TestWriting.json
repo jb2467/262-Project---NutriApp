@@ -1,0 +1,61 @@
+{"Objects":
+[
+{
+"name": "meal1",
+"recipe1" :"recipe1"
+},
+{
+"name": "Butter",
+"calories": "150.0",
+"fat": "8.0",
+"protien": "12.0",
+"fiber": "3.0",
+"carbs": "20.0",
+"AmountInStock": "2.0"
+},
+{
+"name": "recipe1",
+"ingredient1" :"Butter",
+"ingredient1amount" :5.0,
+"ingredient2" :"Chicken",
+"ingredient2amount" :1.0,
+"instructions": "Cook up!!!"
+},
+{
+"name": "Pasta",
+"calories": "100.0",
+"fat": "5.0",
+"protien": "10.0",
+"fiber": "2.0",
+"carbs": "15.0",
+"AmountInStock": "1.0"
+},
+{
+"name": "Chicken",
+"calories": "120.0",
+"fat": "6.0",
+"protien": "8.0",
+"fiber": "1.5",
+"carbs": "18.0",
+"AmountInStock": "3.0"
+},
+{
+"day1": [
+{
+"user": null,
+"intensity": "LOW",
+"date": "12/04/2023",
+"minutes": "10",
+"meal": "meal1"
+},
+{
+"user": null,
+"intensity": "LOW",
+"date": "12/05/2023",
+"minutes": "20",
+"meal": "meal1"
+}
+]
+}
+]
+}
